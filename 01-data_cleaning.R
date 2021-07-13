@@ -6,3 +6,6 @@
 # Load packages
 
 # Load data
+
+# I am cleaning my data
+# I am starting to run a model!
